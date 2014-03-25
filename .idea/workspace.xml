@@ -28,7 +28,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="74" selection-start="769" selection-end="769" vertical-scroll-proportion="0.6121718" vertical-offset="0" max-vertical-offset="838">
+            <state line="30" column="4" selection-start="811" selection-end="811" vertical-scroll-proportion="0.6801909" vertical-offset="0" max-vertical-offset="855">
               <folding />
             </state>
           </provider>
@@ -117,6 +117,7 @@
     <property name="options.searchVisible" value="true" />
     <property name="FullScreen" value="false" />
     <property name="last_opened_file_path" value="C:/Users/yuan/AppData/Local/Atlassian/SourceTree/git_local/bin/git.exe" />
+    <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -232,7 +233,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="74" selection-start="769" selection-end="769" vertical-scroll-proportion="0.6121718" vertical-offset="0" max-vertical-offset="838">
+        <state line="30" column="4" selection-start="811" selection-end="811" vertical-scroll-proportion="0.6801909" vertical-offset="0" max-vertical-offset="855">
           <folding />
         </state>
       </provider>
