@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ff264ec3-5087-4179-9629-8085ff355ce6" name="Default" comment="使用WebStorm编辑&#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="source.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +28,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="38" selection-start="797" selection-end="797" vertical-scroll-proportion="0.6575179" vertical-offset="0" max-vertical-offset="838">
+            <state line="34" column="8" selection-start="836" selection-end="848" vertical-scroll-proportion="0.7708831" vertical-offset="0" max-vertical-offset="838">
               <folding />
             </state>
           </provider>
@@ -226,7 +225,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="38" selection-start="797" selection-end="797" vertical-scroll-proportion="0.6575179" vertical-offset="0" max-vertical-offset="838">
+        <state line="34" column="8" selection-start="836" selection-end="848" vertical-scroll-proportion="0.7708831" vertical-offset="0" max-vertical-offset="838">
           <folding />
         </state>
       </provider>
